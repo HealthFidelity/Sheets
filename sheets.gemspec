@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency('spreadsheet', '~>1.0.0')
   s.add_dependency('rubyzip', '~>1.2.0')
-  s.add_dependency('nokogiri', '~>1.6.1')
+  s.add_dependency('nokogiri', '~>1.6')
 
   s.add_development_dependency('rake', '~>10.1.1')
   s.add_development_dependency('test-unit')
